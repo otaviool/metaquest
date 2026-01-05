@@ -1,0 +1,5 @@
+{
+  "name": "MetaQuest",
+  "description": "Uma aplicação gamificada de rastreamento de hábitos e metas, estilo Duolingo. Defina um objetivo, e a IA gera uma 'árvore de habilidades' com tarefas diárias para você completar, ganhar XP e manter sua ofensiva.",
+  "requestFramePermissions": []
+}
